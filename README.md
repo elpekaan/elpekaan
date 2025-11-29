@@ -56,8 +56,21 @@
 
 <h3 align="center">ENGINEERING METRICS</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elpekaan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="elpekaan github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elpekaan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="175" alt="languages" />
+
+
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=elpekaan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&rank_icon=github" 
+       height="180"
+       alt="elpekaan github stats"
+       onerror="this.onerror=null; this.src='https://github-readme-stats-git-masterorg.vercel.app/api?username=elpekaan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&rank_icon=github';"
+  />
+
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=elpekaan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" 
+       height="175"
+       alt="languages"
+       onerror="this.onerror=null; this.src='https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=elpekaan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117';"
+  />
 </div>
 
 <br>
