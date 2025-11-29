@@ -56,7 +56,7 @@
 
 <h3 align="center">ENGINEERING METRICS</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elpekaan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="175" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elpekaan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="elpekaan github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elpekaan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="175" alt="languages" />
 </div>
 
